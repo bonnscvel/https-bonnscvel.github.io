@@ -208,7 +208,6 @@
 		burgerMenu();
 		contentWayPoint();
 		dropdown();
-		testimonialCarousel();
 		goToTop();
 		loaderPage();
 		counter();
